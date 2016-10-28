@@ -1,26 +1,5 @@
+.DS_Store
 node_modules
-
-# Created by https://www.gitignore.io/api/vim,idea,kate
-
-### Vim ###
-# swap
-[._]*.s[a-w][a-z]
-[._]s[a-w][a-z]
-# session
-Session.vim
-# temporary
-.netrwhist
-*~
-# auto-generated tag files
-tags
-
-
-#!! ERROR: idea is undefined. Use list command to see defined gitignore types !!#
-
-### Kate ###
-# Swap Files #
-.*.kate-swp
-.swp.*
-
-.c9
-
+npm-debug.log
+bower_components
+dist
