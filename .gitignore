@@ -1,4 +1,3 @@
-
 # Created by https://www.gitignore.io/api/vim,idea,kate
 
 ### Vim ###
@@ -20,3 +19,6 @@ tags
 # Swap Files #
 .*.kate-swp
 .swp.*
+
+.c9
+
