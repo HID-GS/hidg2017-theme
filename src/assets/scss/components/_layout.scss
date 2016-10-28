@@ -1,0 +1,21 @@
+body {
+    background: url(../img/white_carbon.png);
+}
+
+.hero {
+    margin: 0 auto;
+    text-align: center;
+    &-image {
+        width: 100%;
+    }
+}
+
+.content {
+    background: rgb(247, 247, 247);
+}
+
+footer {
+    background: white;
+    width: 100%;
+    border-top: 1px solid #b0b7bb;
+}

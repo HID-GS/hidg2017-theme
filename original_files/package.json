@@ -1,0 +1,22 @@
+{
+  "name": "hidg2017-theme",
+  "version": "1.0.0",
+  "description": "base theme for hid's d8 theme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HID-GS/hidg2017-theme.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HID-GS/hidg2017-theme/issues"
+  },
+  "homepage": "https://github.com/HID-GS/hidg2017-theme#readme",
+  "dependencies": {
+    "foundation-cli": "^2.1.0"
+  }
+}
